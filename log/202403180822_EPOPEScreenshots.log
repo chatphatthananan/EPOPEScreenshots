@@ -1,0 +1,43 @@
+2024-03-18 08:22:03,518 INFO Insert into tLog and retrieve logID
+2024-03-18 08:22:03,721 INFO Created logID: db854549-f981-46c1-a24d-7739c2217359
+2024-03-18 08:22:03,721 INFO EPO PE Screenshots Started
+2024-03-18 08:22:03,721 INFO Setting up the selenium driver
+2024-03-18 08:22:05,720 INFO Go to EPO login page
+2024-03-18 08:22:07,812 INFO Wait max 10s until 'username' field section is fully loaded/detected.
+2024-03-18 08:22:08,341 INFO username field is detected
+2024-03-18 08:22:08,341 INFO Send keys to login EPO
+2024-03-18 08:22:10,552 INFO Navigate to related EPO sections to screenshot
+2024-03-18 08:22:10,552 INFO Navigate to SgpExportFinal
+2024-03-18 08:22:10,619 INFO Wait max 10s for SgpExportFinal text to be detected else throw timedout exception.
+2024-03-18 08:22:11,217 INFO Element found.
+2024-03-18 08:22:11,232 INFO Scrolled down to the text element of SgpExportFinal
+2024-03-18 08:22:13,544 INFO SgpExportFinal screenshot saved.
+2024-03-18 08:22:13,544 INFO Navigate to DnxWorkflow
+2024-03-18 08:22:15,904 INFO DnxWorkflow screenshot saved.
+2024-03-18 08:22:15,904 INFO Navigate to ConnectedDevices
+2024-03-18 08:22:18,230 INFO ConnectedDevices screenshot saved.
+2024-03-18 08:22:18,230 INFO Navigate to ConnectedDevicesByProvider
+2024-03-18 08:22:20,570 INFO ConnectedDevicesByProvider screenshot saved.
+2024-03-18 08:22:20,570 INFO Navigate to CorrelationInformation
+2024-03-18 08:22:22,889 INFO CorrelationInformation screenshot saved.
+2024-03-18 08:22:22,889 INFO Navigate to BllServer
+2024-03-18 08:22:25,213 INFO BllServer screenshot saved.
+2024-03-18 08:22:25,213 INFO Navigate to CPSs sections.
+2024-03-18 08:22:25,213 INFO Navigate to CpsTree
+2024-03-18 08:22:27,588 INFO CpsTree screenshot saved.
+2024-03-18 08:22:27,588 INFO Navigate to SgpMasterInGermany
+2024-03-18 08:22:30,009 INFO SgpMasterInGermany screenshot saved.
+2024-03-18 08:22:30,009 INFO Navigate to SgpMasterInSgp
+2024-03-18 08:22:32,366 INFO SgpMasterInSgp screenshot saved.
+2024-03-18 08:22:32,366 INFO Navigate to SgpMasterForCustomers
+2024-03-18 08:22:34,709 INFO SgpMasterForCustomers screenshot saved.
+2024-03-18 08:22:34,709 INFO Navigate to SgpMasterFedAuth
+2024-03-18 08:22:37,061 INFO SgpMasterFedAuth screenshot saved.
+2024-03-18 08:22:37,061 INFO Navigate to SgpMasterInAws
+2024-03-18 08:22:39,414 INFO SgpMasterInAws screenshot saved.
+2024-03-18 08:22:39,415 INFO Closing driver.
+2024-03-18 08:22:39,646 INFO Driver closed.
+2024-03-18 08:22:39,646 INFO Process done, updating tLog and email settings.
+2024-03-18 08:22:43,302 INFO Email sent.
+2024-03-18 08:22:43,302 INFO Updating tLog logID: db854549-f981-46c1-a24d-7739c2217359 with status: 1
+2024-03-18 08:22:43,427 INFO SGTAM log updated.

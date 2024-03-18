@@ -1,0 +1,46 @@
+2023-06-04 08:20:03,677 INFO Insert into tLog and retrieve logID
+2023-06-04 08:20:03,896 INFO Created logID: f7772d8a-a0f5-40cd-bf53-a3abbb85512f
+2023-06-04 08:20:03,896 INFO EPO PE Screenshots Started
+2023-06-04 08:20:03,896 INFO Setting up the selenium driver
+2023-06-04 08:20:03,896 INFO ====== WebDriver manager ======
+2023-06-04 08:20:05,521 INFO Get LATEST chromedriver version for google-chrome 113.0.5672
+2023-06-04 08:20:08,318 INFO Driver [C:\Users\sgtamdp\.wdm\drivers\chromedriver\win32\113.0.5672\chromedriver.exe] found in cache
+2023-06-04 08:20:10,381 INFO Go to EPO login page
+2023-06-04 08:20:11,630 INFO Wait max 10s until 'username' field section is fully loaded/detected.
+2023-06-04 08:20:12,190 INFO username field is detected
+2023-06-04 08:20:12,190 INFO Send keys to login EPO
+2023-06-04 08:20:14,489 INFO Navigate to related EPO sections to screenshot
+2023-06-04 08:20:14,489 INFO Navigate to SgpExportFinal
+2023-06-04 08:20:14,581 INFO Wait max 10s for SgpExportFinal text to be detected else throw timedout exception.
+2023-06-04 08:20:15,121 INFO Element found.
+2023-06-04 08:20:15,147 INFO Scrolled down to the text element of SgpExportFinal
+2023-06-04 08:20:17,394 INFO SgpExportFinal screenshot saved.
+2023-06-04 08:20:17,394 INFO Navigate to DnxWorkflow
+2023-06-04 08:20:19,700 INFO DnxWorkflow screenshot saved.
+2023-06-04 08:20:19,700 INFO Navigate to ConnectedDevices
+2023-06-04 08:20:22,098 INFO ConnectedDevices screenshot saved.
+2023-06-04 08:20:22,098 INFO Navigate to ConnectedDevicesByProvider
+2023-06-04 08:20:24,447 INFO ConnectedDevicesByProvider screenshot saved.
+2023-06-04 08:20:24,448 INFO Navigate to CorrelationInformation
+2023-06-04 08:20:26,779 INFO CorrelationInformation screenshot saved.
+2023-06-04 08:20:26,779 INFO Navigate to BllServer
+2023-06-04 08:20:29,073 INFO BllServer screenshot saved.
+2023-06-04 08:20:29,073 INFO Navigate to CPSs sections.
+2023-06-04 08:20:29,073 INFO Navigate to CpsTree
+2023-06-04 08:20:31,332 INFO CpsTree screenshot saved.
+2023-06-04 08:20:31,333 INFO Navigate to SgpMasterInGermany
+2023-06-04 08:20:33,694 INFO SgpMasterInGermany screenshot saved.
+2023-06-04 08:20:33,695 INFO Navigate to SgpMasterInSgp
+2023-06-04 08:20:35,981 INFO SgpMasterInSgp screenshot saved.
+2023-06-04 08:20:35,981 INFO Navigate to SgpMasterForCustomers
+2023-06-04 08:20:38,271 INFO SgpMasterForCustomers screenshot saved.
+2023-06-04 08:20:38,271 INFO Navigate to SgpMasterFedAuth
+2023-06-04 08:20:40,556 INFO SgpMasterFedAuth screenshot saved.
+2023-06-04 08:20:40,556 INFO Navigate to NodeMediaCorp
+2023-06-04 08:20:42,821 INFO NodeMediaCorp screenshot saved.
+2023-06-04 08:20:42,821 INFO Closing driver.
+2023-06-04 08:20:42,988 INFO Driver closed.
+2023-06-04 08:20:42,988 INFO Process done, updating tLog and email settings.
+2023-06-04 08:20:46,176 INFO Email sent.
+2023-06-04 08:20:46,176 INFO Updating tLog logID: f7772d8a-a0f5-40cd-bf53-a3abbb85512f with status: 1
+2023-06-04 08:20:46,332 INFO SGTAM log updated.
